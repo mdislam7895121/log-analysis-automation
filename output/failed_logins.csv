@@ -1,0 +1,3 @@
+ip,timestamp,method,path,status,user_agent
+192.168.56.11,2025-11-01T10:01:00,POST,/login,401,curl/7.68.0
+192.168.56.12,2025-11-01T10:02:00,POST,/login,401,Mozilla/5.0
